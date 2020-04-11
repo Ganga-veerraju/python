@@ -1,0 +1,7 @@
+n1=int(input("enter the number1:"))
+n2=int(input("enter the number2:"))
+print("Addition of two numbers:",n1+n2)
+print("subtraction of two numbers:",n1-n2)
+print("Multiplication of two numbers:",n1*n2)
+print("Division of two numbers:",n1/n2)
+print("Modulus Division of two numbers:",n1%n2)
